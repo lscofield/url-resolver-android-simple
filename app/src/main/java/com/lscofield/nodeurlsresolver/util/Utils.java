@@ -118,7 +118,7 @@ public class Utils {
 
     public static void setTestAdsEnabled(boolean enabled){
         if (enabled){
-            List<String> testDeviceIds = Arrays.asList("A86CDDD366F3642949B9E2C6182C117A");
+            List<String> testDeviceIds = Arrays.asList("TEST_DEVICE_ID");
             RequestConfiguration configuration =
                     new RequestConfiguration.Builder().setTestDeviceIds(testDeviceIds).build();
             MobileAds.setRequestConfiguration(configuration);
