@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorBlack</color>
+    <color name="colorPrimaryDark">@color/colorBlack</color>
+    <color name="colorAccent">@color/colorBlack</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextGray">#9E9E9E</color>
+    <color name="colorBlack">#000000</color>
+    <color name="userJoin">#66BB6A</color>
+    <color name="userLeft">#EF5350</color>
+    <color name="colorBackground">#1D1E1F</color>
+    <color name="colorButton">#c6892d</color>
+    <color name="colorPopUp">@color/backWhite</color>
+    <color name="backWhite">#FFFFFF</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="item_name">#0c0c0c</color>
+    <color name="description">#1a1a1a</color>
+    <color name="chef">#777</color>
+    <color name="timestamp">#777</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="ADMOB_APP_ID">ADMOB_APP_ID</string>
+    <string name="ADMOB_BANNER_PLAYER">ADMOB_BANNER_ID</string>
+    <string name="ADMOB_INTERSTITIAL_LOCAL">ADMOB_INTERSTITIAL_ID</string>
+
+    <string name="app_name">Url Resolver Simple App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="home_url_hint">Insert url here...</string>
+    <string name="url_empty">empty field</string>
+    <string name="not_supported_host">Not supported host</string>
+    <string name="m_load">Loading...</string>
+    <string name="not_supported_host_dw">This host not allow downloads</string>
+    <string name="extraction_error">Extraction error</string>
+    <string name="error_ocurr">An error ocurrent</string>
+    <string name="zoom_in">Original</string>
+    <string name="zoom_out">Zoomed</string>
+</resources>
