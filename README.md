@@ -28,5 +28,5 @@ App integrated with:
     - Refactor package
     - Set your resolver api domain on [app-package].util.Conses.java
     - Set your Admob ads/app IDs on string.xml
-    - [optional] set your device id to see Google test Ads on  [app-package].util.Util.java (setTestAdsEnabled method)
+    - [optional] set your device id to see Google test Ads on  [app-package].util.Utils.java (setTestAdsEnabled method)
     - Compile and enjoy!!
